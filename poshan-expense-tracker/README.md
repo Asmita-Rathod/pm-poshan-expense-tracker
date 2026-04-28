@@ -65,8 +65,8 @@ cd pm-poshan-expense-tracker
 # Create virtual environment
 python -m venv venv
 
-# Activate environment
-venv\Scripts\activate   # Windows
+# Activate environment (Windows)
+venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
@@ -76,20 +76,25 @@ python manage.py migrate
 
 # Run server
 python manage.py runserver
+```
 
 Now open your browser:
 http://127.0.0.1:8000/
+
 ---
-#📂 Project Structure
+
+## 📂 Project Structure
+
 ```bash
 poshan-expense-tracker/
+│── manage.py
 │── bills/              # Bill management module
 │── users/              # Authentication & user roles
 │── templates/          # HTML templates
 │── static/             # CSS, JS, assets
 │── api.js              # Frontend API integration
-│── manage.py
 ```
+
 👥 User Roles  
 👤 User
 Submit bills  
