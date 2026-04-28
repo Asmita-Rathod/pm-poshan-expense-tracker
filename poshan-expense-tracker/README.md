@@ -80,7 +80,7 @@ python manage.py runserver
 Now open your browser:
 http://127.0.0.1:8000/
 
-# 📂 Project Structure
+## 📂 Project Structure
 ```bash
 poshan-expense-tracker/
 │── bills/              # Bill management module
