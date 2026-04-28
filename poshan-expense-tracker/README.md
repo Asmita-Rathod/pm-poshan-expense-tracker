@@ -79,7 +79,7 @@ python manage.py runserver
 
 Now open your browser:
 http://127.0.0.1:8000/
-
+---
 #📂 Project Structure
 ```bash
 poshan-expense-tracker/
@@ -167,8 +167,7 @@ Feel free to fork this repository and submit a pull request.
 
 👩‍💻 Author  
 
-Asmita Rathod
-
+Asmita Rathod 
 B.E. IT Student  
 
 ⭐ Support  
