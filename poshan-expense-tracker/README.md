@@ -170,10 +170,11 @@ Check updated status
 Contributions are welcome!  
 Feel free to fork this repository and submit a pull request.  
 
-👩‍💻 Author  
+## 👩‍💻 Author
 
-Asmita Rathod 
-B.E. IT Student  
+**Asmita Rathod**  
+B.E. Information Technology  
+LD College of Engineering 
 
 ⭐ Support  
 
